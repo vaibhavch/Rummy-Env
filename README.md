@@ -38,4 +38,4 @@ pip install gym
 
 # Environment learning simulation ideas
 * Genetic Algorithm
-* Proximal policy optimisation
+* Proximal policy optimization
