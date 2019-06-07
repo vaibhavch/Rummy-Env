@@ -35,3 +35,7 @@ pip install gym
 # Support Agent
 * Human
 * Random 
+
+# Environment Learning Simulation Ideas
+* Genetic Algorithm
+* Proximal Policy Optimisation
