@@ -36,6 +36,6 @@ pip install gym
 * Human
 * Random 
 
-# Environment Learning Simulation Ideas
+# Environment learning simulation ideas
 * Genetic Algorithm
-* Proximal Policy Optimisation
+* Proximal policy optimisation
